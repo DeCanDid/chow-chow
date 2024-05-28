@@ -1,0 +1,90 @@
+.carousel{
+    width: 90%;
+    background-color: rgb(32, 116, 144);
+    margin: 50px auto;
+    padding:0 5%;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.carousel-inner{
+    /* background-color: red; */
+    padding: 4%;
+}
+
+.carousel-item h2, .covered h1{
+    font-weight: bold;
+    font-size: 65px;
+}
+.covered{
+    width: 90%;
+    margin: 40px auto;
+    display: flex;
+    justify-content: space-between;
+}
+.covered div{
+    width: 45%;
+}
+.covered p{
+    font-size: 25px;
+    line-height: 33px;
+}
+
+.google_map{
+    /* background-color: green; */
+    width: 90%;
+    margin: 50px auto;
+    border-radius: 10px;
+}
+.google_map iframe{
+    width: 100%;
+    border-radius: 10px;
+}
+
+.street_credit{
+    text-align: center;
+    margin: 100px auto;
+}
+
+.street_credit button{
+    padding: 10px 30px;
+    font-weight: bolder;
+    font-size: 30px;
+    border-radius: 4px;
+    margin: 40px;
+}
+.street_credit a{
+    background-color: rgb(94, 192, 224);
+    padding: 10px 30px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.story{
+    width: 90%;
+    margin: 50px auto;
+}
+.story aside{
+    width: 30%;
+    border: 1px solid black;
+}
+
+.card-group{
+    text-align: center;
+}
+.card-group .card img{
+    border-radius: 5px 5px 0 0;
+}
+
+.card-footer{
+    font-weight: bold;
+    font-size: larger;
+    border-radius: 4px;
+
+}
+
+.card-footer:hover{
+    color: #fff;
+    background-color: rgb(32, 116, 144);
+}

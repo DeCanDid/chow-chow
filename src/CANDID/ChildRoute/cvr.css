@@ -1,0 +1,46 @@
+.mini_route{
+    background-color:gray;
+    text-align: center;
+    padding: 20px 0;
+}
+
+
+.routes{
+    background-color: #fff;
+    width: 25%;
+    margin: 0 auto;
+    padding: 10px;
+    border-radius: 20px;
+
+}
+.routes a{
+    margin: 0 20px;
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+}
+
+.display_route{
+    width: 40%;
+    margin: 40px auto;
+}
+
+.display_route h2{
+    font-weight: bold;
+    font-size: 60px;
+}
+.display_route p{
+    font-size: 20px;
+}
+.display_route a{
+    padding: 10px 12px;
+    font-size: larger;
+    color: #fff;
+    text-decoration: none;
+    /* height: 30px; */
+    /* width: 35px; */
+    margin: 0 10px;
+    border-radius: 100%;
+    background-color: rgb(32, 116, 144);
+
+}

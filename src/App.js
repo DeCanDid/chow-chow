@@ -1,24 +1,32 @@
 import logo from './logo.svg';
 import './App.css';
+import Test from './CANDID/Test';
+import LandingHeader from './CANDID/LandingHeader';
+import Cvr from './CANDID/ChildRoute/Cvr';
+import Carousel from './CANDID/Carousel/Carousel';
+import { Route, Routes } from 'react-router-dom';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    
+    <>
+    <Routes>
+      <Route path='/' element={<LandingHeader/>}/>
+
+    </Routes>
+    
+        {/* <LandingHeader/> */}
+        <Cvr/>
+        <Carousel/>
+
+     <section 
+    className='banner_background'>
+    <div className="banner_b">
+
+
     </div>
+  </section>
+    </>
   );
 }
 
