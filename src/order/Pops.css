@@ -1,0 +1,88 @@
+*{
+    margin : 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+div.food{
+    display: grid;
+    grid-template-columns: auto auto;
+    align-items: baseline;
+    gap: 0; 
+    width: 100%;
+    margin: 5% 0 0 0;
+    padding: 0 5%;
+    border-top: 0.5px solid #1414142d;
+}
+div.food section:first-of-type{
+    width: 80%;
+}
+div.divbut{
+    border: 2px solid #0000006b;
+    padding: 10px;
+    border-radius: 5px;
+}
+img.im{
+    width: 100%;
+    height: 15em;
+    border-radius: 20px;
+}
+div.food1-col-1 h1{
+    font-size: 30px;
+}
+div.food1-col-1,div.food1-col-2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 1% 0;
+}
+div.food1-col-1 button,div.food1-col-2 button{
+    border: none;
+    background-color: transparent;
+    padding: 5px 15px;
+    border-radius: 3px;
+}
+section.food2{
+    padding: 10% 5%;
+    border-left: 0.5px solid #1414142d;
+    text-align: center;
+    height: 90vh;
+}
+button{
+    cursor: pointer;
+}
+div.popdiv{
+    display: flex;
+    justify-content: space-between;
+    margin: 3%;
+}
+div.popdiv h4{
+    color: rgba(207, 3, 3, 0.5);
+}
+div.addone{
+    display: grid;
+    grid-template-columns: auto auto;
+    margin: 0 5%;
+    align-items: center;
+}
+div.addone1{
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid rgb(1, 49, 23);
+    padding: 7px 10px;
+    width: 80%;
+    text-align: center;
+    border-radius: 5px;
+}
+div.addone1 h4{
+    cursor: pointer;
+    color: rgb(1, 49, 23);
+    font-size: 20px;
+}
+div.addone button{
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgb(1, 49, 23);
+    border: none;
+    color: #fff;
+    font-size: 18px;
+}
