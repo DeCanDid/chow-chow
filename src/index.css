@@ -1,0 +1,278 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  background-color: #fff;
+  color: #555;
+  font-family: "Lato", "Arial", sans-serif;
+  font-weight: 300;
+  font-size: 20px;
+  text-rendering: optimizeLegibility;
+  overflow-x: hidden;
+}
+
+.clearfix {
+  zoom: 1;
+}
+.clearfix:after {
+  content: ".";
+  clear: both;
+  display: block;
+  height: 0;
+  visibility: hidden;
+}
+
+.row {
+  max-width: 1140px;
+  margin: 0 auto;
+}
+.icon {
+  display: inline-block;
+  width: 30px;
+  text-align: center;
+  font-size: 150%;
+  margin-right: 15px;
+  padding-top: 10px;
+
+  /*secrets to align text and icons*/
+  line-height: 120%;
+  vertical-align: middle;
+  margin-top: -5px;
+}
+.header .clear {
+  padding-top: 50px;
+}
+.flex-container {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 20px;
+}
+.clear {
+  background-color: #eeecec;
+  border-radius: 20px;
+  border: none;
+  cursor: pointer;
+  font-size: 160%;
+  padding: 10px;
+}
+.header {
+  font-size: 160%;
+}
+.toggle-button {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+  background-color: #eeecec;
+  height: 60px;
+  border-radius: 30px;
+  padding: 20px;
+}
+
+.btn {
+  font-size: 120%;
+  padding: 8px;
+  border-radius: 10px;
+  border: none;
+}
+.btn:hover,
+.btn:active {
+  font-size: 120%;
+  padding: 8px;
+  border-radius: 10px;
+  background-color: black;
+  color: #fff;
+}
+h6:after {
+  display: block;
+  height: 1px;
+  background-color: #eeecec;
+  content: " ";
+  width: 1140px;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+.image img {
+  height: 45px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+.item p {
+  font-size: 90%;
+}
+.image span {
+  padding-left: 60px;
+  padding-top: 0;
+}
+.item {
+  display: inline-flex;
+}
+.item-bought {
+  display: inline-flex;
+  justify-content: space-between;
+
+  margin-top: 1rem;
+  border-bottom: none;
+  padding: 0.3rem;
+}
+.item-bought p {
+  font-size: 90%;
+}
+.item p span {
+  font-size: 70%;
+}
+.check {
+  margin: 0.5rem;
+  border-radius: 0.3rem;
+  width: 30%;
+  text-align: center;
+  border: 1px solid #eeecec;
+  padding: o.3rem;
+}
+.address {
+  display: flex;
+  justify-content: space-around;
+  padding: 0.5rem;
+  border-top: none;
+  border-bottom: none;
+}
+.address p {
+  font-size: 80%;
+}
+.checkout {
+  font-size: 100%;
+  padding: 0.3rem;
+  margin-top: 0.3rem;
+  width: 80%;
+  background-color: #214826;
+  border-radius: 0.1rem;
+  color: #fff;
+}
+.clear-select {
+  border: none;
+  background-color: #fff;
+  padding: 0.3rem;
+  margin-top: 0.3rem;
+  font-size: 100%;
+  color: #214826;
+}
+.each {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+/*remita css*/
+.container {
+  width: 500px;
+  box-shadow: 2px 3px 3px #eee;
+  padding: 30px;
+}
+.container p {
+  text-align: center;
+  font-size: 16px;
+}
+input {
+  width: 100%;
+  height: 50px;
+  border: 1px solid #c4c4c4;
+  padding: 12px;
+  font-size: 16px;
+  margin-bottom: 12px;
+  border-radius: 4px;
+}
+.btn {
+  width: 100%;
+  height: 50px;
+  padding: 12px;
+  font-size: 16px;
+  margin-bottom: 12px;
+  border-radius: 4px;
+  background-color: rgb(71, 43, 0);
+  color: #fff;
+  border: 0;
+}
+/*form */
+input[type="email"] {
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 1px solid #555;
+  outline: none;
+}
+.paymentForm {
+  position: relative;
+  background-color: #f6f6f6;
+  width: 60%;
+  margin: 0 auto;
+}
+
+input[type="text"]:focus {
+  background-color: lightblue;
+}
+input[type="email"]:focus {
+  background-color: lightblue;
+}
+input[type="tel"]:focus {
+  background-color: lightblue;
+}
+.pay {
+  font-size: 110%;
+  width: 50%;
+  display: block;
+  margin: auto;
+  background-color: #598162;
+  color: #fff;
+  padding: 5px;
+}
+.close {
+  position: absolute;
+  right: 0;
+  top: 0;
+  font-size: 110%;
+}
+/*:hover,
+.modal-btn:focus {
+  background-color: #0f0f0fdd;
+}*/
+.modal {
+  position: fixed;
+  min-height: 100vh;
+  width: 100%;
+  top: 0;
+  left: 0;
+  display: flex;
+  z-index: 2;
+}
+.modal-overlay {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.5);
+  left: 0;
+}
+.modal-content {
+  transition: transform 1s;
+  background: #fff;
+  width: 75%;
+  position: relative;
+  margin: auto;
+  height: 75%;
+  padding: 48px 24px;
+  border-radius: 4px;
+  max-width: 1000px;
+}
+.modal-close {
+  font-size: 36px;
+  text-decoration: none;
+  color: inherit;
+  position: absolute;
+  right: 24px;
+  top: 10px;
+}
+h2 {
+  text-align: center;
+}
