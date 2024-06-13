@@ -1,0 +1,89 @@
+{
+    "burger":[
+        {
+            "images":"https://media.istockphoto.com/id/1008443190/photo/bacon-cheeseburger-with-a-fried-egg-commercial.jpg?s=612x612&w=0&k=20&c=0r3UgmWCPGc5Ysq7AmZfyufFIIFXQBqGQafHuxZqHao=",
+            "name":"Burger Haven",
+            "rate":"4.40",
+            "time":"10 - 15 mins",
+            "slogan":"Savor the Flavor, Love the Juicy"
+        },
+        {
+            "images":"https://media.istockphoto.com/id/1225664798/photo/homemade-grass-fed-cheeseburger.jpg?s=612x612&w=0&k=20&c=uHblXqZlfgS8ZQvH5aGrC-dccrscgFoKoejumLIm7uQ=",
+            "name":"Burger Barn",
+            "rate":"4.40",
+            "time":"10 - 20 mins",
+            "slogan":"Sizzle, Stack, and Savor!"
+        },
+        {
+            "images":"https://media.istockphoto.com/id/1457670831/photo/hamb%C3%BArguer.jpg?s=612x612&w=0&k=20&c=bQVom9W8FjMsLDurf0bHAG4O_XDPsN8Ba8D5fS33kbA=",
+            "name":"Grillzilla",
+            "rate":"4.40",
+            "time":"5 - 15 mins",
+            "slogan":"Mark my Grills"
+        },
+        {
+            "images":"https://media.istockphoto.com/id/1215955322/photo/turkey-burger.jpg?s=612x612&w=0&k=20&c=OCkzWzOHB8ZW6F8CBknHwNYg2rGgy0Dbj5swnqEIp5Y=",
+            "name":"Bite Size Burger"  ,
+            "rate":"4.40",
+            "time":"20 - 30 mins",
+            "slogan":"Patty Good, Better Food"
+            
+        },
+        {
+            "images":"https://media.istockphoto.com/id/467416666/photo/grass-fed-bison-hamburger.jpg?s=612x612&w=0&k=20&c=hKvvM-ApQO8ru9ssBW8edokk1ZzE9uLxv-xMogl9yC4=",
+            "name":"Burger Bloom",
+            "rate":"4.40",
+            "time":"25 - 30 mins",
+            "slogan":"Mark my Grills"
+        },
+        {
+            "images":"https://media.istockphoto.com/id/692166610/photo/close-up-of-home-made-tasty-burgers-with-beef-mushrooms-bacon-and-cheese-on-wooden-table.jpg?s=612x612&w=0&k=20&c=kcQZ9SxrSwQwvgIkZ4bhOuJLGA-YnqKDAcBPi-FWXvM=",
+            "name":"Grill n Chill",
+            "rate":"4.40",
+            "time":"10 - 20 mins",
+            "slogan":"Grill Magic: Where Flavors Meet!"
+        },
+        {
+            "images":"https://media.istockphoto.com/id/618630580/photo/homemade-cheese-burger.jpg?s=612x612&w=0&k=20&c=vl79IZ_3A2rSnLcSdH33rlo4GMn1Z-3TrAOhOfgfpSU=",
+            "name":"Patties & Flavors",
+            "time":"22 - 30 mins",
+            "slogan":"Classic Taste, Timeless Patties"
+        },
+        {
+            "images":"https://media.istockphoto.com/id/1481470306/photo/fast-food-animal-cheeseburger.jpg?s=612x612&w=0&k=20&c=H2J-6Hl5scr-KpnhnT_pFLat1QP_mii3NB557cyksZk=",
+            "name":"Bun Barn Burgers",
+            "rate":"4.40",
+            "time":"5 - 15 mins",
+            "slogan":"Sizzle, Stack, Relish the Moment!"
+        },
+        {
+            "images":"https://media.istockphoto.com/id/520492738/photo/delicious-hamburger-on-wooden-table.jpg?s=612x612&w=0&k=20&c=UHBvyZEGKRGjA8acUjEFF5BiwJARwa7s6VVi8Sor7fQ=",
+            "name":"Juicy Bite Burger",
+            "rate":"4.40",
+            "time":"5 - 10 mins",
+            "slogan":"Grilled to Perfection!”"
+        },
+        {
+            "images":"https://media.istockphoto.com/id/495520042/photo/delicious-hamburger-on-wood.jpg?s=612x612&w=0&k=20&c=JMJMFPAqSo5lDLBPpH60rRHqpYDNLnG2I0_bLnO2UME=",
+            "name":"Burger Delight",
+            "rate":"4.40",
+            "time":"20 - 30 mins",
+            "slogan":"The Land of Juicy Delights"
+        },
+        {
+            "images":"https://media.istockphoto.com/id/854565922/photo/close-up-of-home-made-burgers.jpg?s=612x612&w=0&k=20&c=FMhLXJo-uNDYKDIm-LTcWTsjkbNNzWE-mwwk0CjBWq4=",
+            "name":"Flip'N Grill Burgrs ",
+            "time":"5 - 15 mins",
+            "rate":"4.40",
+            "slogan":"Sail the Seas of Flavor!"
+        },
+        {
+            "images":"https://media.istockphoto.com/id/952966332/photo/hamburger-with-salad-and-beer.jpg?s=612x612&w=0&k=20&c=2KvWki74rIFsb5F1PdnjHt-7X_O3jCzq8oXhgrQ795s=",
+            "name":"Meat & Greet Burgers",
+            "rate":"4.40",
+            "time":"10 - 15 mins",
+            "slogan":"Light Up Your Taste Buds!"
+        }
+
+    ]
+}

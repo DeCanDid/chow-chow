@@ -1,0 +1,87 @@
+{
+    "user":[
+      
+        {
+            "img":"https://media.istockphoto.com/id/1502996663/photo/traditional-chicken-wing-stripes-barbecue-on-a-plate.jpg?s=612x612&w=0&k=20&c=poV-Hl13lSuqTfKoJNiXpqZDBqx2icPnjMjaDYdBEjI=",
+            "restaurant":"Tres Gatos",
+            "rate":"4.40",
+            "time":" 18 - 28 mins",
+            "text":"CHICKEN",
+            "text1":"FAST FOOD",
+            "text2":"AFRICAN"
+        
+        },
+        {
+            "img":"https://media.istockphoto.com/id/687886546/photo/fried-chicken-with-nugget-and-french-fries.jpg?s=612x612&w=0&k=20&c=mOqidCMd8D7JT8mCNbmGjhurMqfF0kX9t83Isi8dI1Y=",
+            "restaurant":"Crunchy Cravings",
+            "rate":"4.24",
+            "time":" 10 - 15 mins",
+            "text":"CHICKEN",
+            "text1":"FAST FOOD",
+            "text2":"CONTINENTAL"
+
+        },
+        {
+            "img":"https://media.istockphoto.com/id/830833674/photo/fried-chicken-fingers.jpg?s=612x612&w=0&k=20&c=RhIE1kAz-0vffEmni2K9pVTUonZsKHHGp2RaSbqRowM=",
+            "restaurant":"Cluck 'n' Crisp",
+            "rate":"4.5",
+            "time":" 20 - 30 mins",
+            "text":"CHICKEN",
+            "text1":"FAST FOOD"
+
+        },
+        {
+            "img":"https://media.istockphoto.com/id/1458888093/photo/cauliflower-wings-food-cauliflower-pieces-and-french-fries-with-vegan-sauces-vegetarian-food.jpg?s=612x612&w=0&k=20&c=vGFkJ49EkIad6bxihE01X-3FD6aMbyvVlsNkB-BGyT4=",
+            "restaurant":"Fry Delight",
+            "rate":"4.04",
+            "time":" 18 - 20 mins",
+            "text":"CHICKEN",
+            "text1":"FAST FOOD",
+            "text2":"AFRICAN"
+        },
+        {
+            "img":"https://media.istockphoto.com/id/1394421303/photo/fried-chicken-and-potato-chip-with-rosemary-leaf-junk-food-high-calorie-served-on-white-plate.jpg?s=612x612&w=0&k=20&c=en-_EoOcq7OwNqTsRdOICl_VxnP7Zvvo564fUmk1Brg=",
+            "restaurant":"Crispy Chicks",
+            "rate":"4.19",
+            "time":" 21 - 31 mins",
+            "text":"CHICKEN",
+            "text1":"FAST FOOD",
+            "text2":"CONTINENTAL"
+        },
+        {
+            "img":"https://media.istockphoto.com/id/1353257837/photo/breaded-chicken-strips-with-two-kinds-of-sauces-and-fried-potatoes-on-a-stone-background-fast.jpg?s=612x612&w=0&k=20&c=Hst7ikaL920IUHZh3DD_K3Gv2-ffqVb-xh8x0xyiG0A=",
+            "restaurant":"Urban Bites",
+            "rate":"4.10",
+            "time": "30 - 40 mins",
+            "text":"CHICKEN",
+            "text1":"FAST FOOD"
+        },
+        {
+            "img":"https://media.istockphoto.com/id/1439605353/photo/food-photos-various-entrees-appetizers-deserts-etc.jpg?s=612x612&w=0&k=20&c=ta14YocTxxQW757vjIlpCn8k88xjtG064h1kj4I3gos=",
+            "restaurant":"Sizzle Crips",
+            "rate":"4.35",
+            "time":" 10 - 15 mins",
+            "text":"CHICKEN",
+            "text1":"FAST FOOD",
+            "text2":"AFRICAN"
+        },
+        {
+            "img":"https://media.istockphoto.com/id/698717876/photo/plate-of-fried-chicken-with-french-fries.jpg?s=612x612&w=0&k=20&c=3GuB2xUQUrekVg7EZUGVC6tCKAXWzzmLrDSQQ0iEAYs=",
+            "restaurant":"Cluck and Fry",
+            "rate":"4.44",
+            "time":" 25 - 50 mins",
+            "text":"CHICKEN",
+            "text1":"FAST FOOD",
+            "text2":"CONTINENTAL"
+        },
+        {
+            "img":"https://media.istockphoto.com/id/1171255517/photo/a-deep-fried-cheese-balls.jpg?s=612x612&w=0&k=20&c=Asrtk_z06PTd90zBGoJWC9kZC1VOhrpgQIsrDcme_HE=",
+            "restaurant":"Tasty",
+            "rate":"4.15",
+            "time":" 21 - 30 mins",
+            "text":"CHICKEN",
+            "text1":"FAST FOOD"
+        }
+
+    ]
+}

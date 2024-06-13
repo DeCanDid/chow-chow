@@ -1,0 +1,91 @@
+{
+    "snacks":[
+        {
+            "image":"https://media.istockphoto.com/id/1436197966/photo/ground-beef-meat-pie-on-dark-wooden-table.jpg?s=612x612&w=0&k=20&c=VoVvkzYZbiFDnpnzXY__a7k7rrR5SjoniasajW3339g=",
+            "name":"Pastry Passion Cafe",
+            "rate":"4.40",
+            "time":"5 - 10 mins",
+            "slogan":"Life is short, eat dessert first!"
+        },
+        {
+            "image":"https://media.istockphoto.com/id/1494437052/photo/croissant-and-chocolate-bread-on-wooden-board.jpg?s=612x612&w=0&k=20&c=r3rgoVSvos08K0p3h6jgu191gMVW5PCbzwOpmeXXAqg=",
+            "name":"The Crispy Croissant",
+            "rate":"4.40",
+            "time":" 5 - 15 mins",
+            "slogan":"Sweet moments, freshly baked with love."
+        },
+        
+        {
+            "image":"https://media.istockphoto.com/id/1158358113/photo/bread-with-nuts.jpg?s=612x612&w=0&k=20&c=pw56HgI08dQTNNA4EXLMZmdV3gNkaBuwQmY78yGiWbo=",
+            "name":"Sweet Dreams Bakery",
+            "rate":"4.40",
+            "time":"10 - 15 mins",
+            "slogan":"Savor the sweet life, one bite at a time."
+        },
+        {
+            "image":"https://media.istockphoto.com/id/926421218/photo/chocolate-chip-cookies-on-rustic-table.jpg?s=612x612&w=0&k=20&c=Df6NNShM346iHeb6p45-EPkIp5Z5vDF0JYALmknFiqU=",
+            "name":"Donut Daze Creations",
+            "rate":"4.40",
+            "time":"5 - 10 mins",
+            "slogan":"Totally delicious, entirely indulgent."
+        },
+        {
+            "image":"https://media.istockphoto.com/id/938882680/photo/donuts.jpg?s=612x612&w=0&k=20&c=GtbZ9DJeBdgy2W8Zx20V2unlBLhPPaOL7lCslKU4wlg=",
+            "name":"Dazzling Donut",
+            "rate":"4.40",
+            "time":"10 - 20 mins",
+            "slogan":"From our ovens to your heart, freshly baked.”"
+        },
+        {
+            "image":"https://media.istockphoto.com/id/1200383267/photo/exposition-of-colorful-and-tasty-macaron-candy-many-colors-yellow-green-brown-pink-in-blue.jpg?s=612x612&w=0&k=20&c=61pXlsCHUJtCqP9WaE-CgAFboQBipGHEJSPnh047WHk=",
+            "name":"Glazed Glory Bakery",
+            "rate":"4.40",
+            "time":"5 - 15 mins",
+            "slogan":"A bakery where every bite is a delight."
+        },
+        {
+            "image":"https://media.istockphoto.com/id/1679869711/photo/kibinai-traditional-lithuanian-food-pastries-filled-with-various-meat-onion-and-pepper.jpg?s=612x612&w=0&k=20&c=Yx3ajElMPU75WtCOPMVVxj5iVSZ_a1WH1FwIBlroTrE=",
+            "name":"Crave Creation Bakery",
+            "rate":"4.40",
+            "time":"15 - 20 mins",
+            "slogan":"Desserts made better, day by day."
+        },
+        {
+            "image":"https://media.istockphoto.com/id/615488680/photo/cornish-pasty.jpg?s=612x612&w=0&k=20&c=Uevu9QhDcIR_y3fJOx2wM8cFUZ08kqxp6IQgC9HQK6A=",
+            "name":"Twist & Taste Pastries",
+            "rate":"4.40",
+            "time":"20 - 30 mins",
+            "slogan":"Satisfaction guaranteed, one bite away."
+        },
+        {
+            "image":"https://media.istockphoto.com/id/1676097087/photo/pastel-de-tres-leches-three-milk-cake-latin-america-bakery-with-strawberries.jpg?s=612x612&w=0&k=20&c=Qlop11AMkqJO7Lga20vfIN7FOiec_Pu3eGip7QzEV3w=",
+            "name":"Artisan Pastries",
+            "rate":"4.40",
+            "time":"10 - 15 mins",
+            "slogan":"Handcrafted bread and pastries made from scratch"
+        },
+        {
+            "image":"https://media.istockphoto.com/id/2125328538/photo/fried-fresh-samosa-is-a-delicious-street-food.jpg?s=612x612&w=0&k=20&c=1bUhSEzD-G_r7P1klVasIta6WYtJfsMHaNOQUHjFbPQ=",
+            "name":"Golden Flake Bakery",
+            "rate":"4.40",
+            "time":"5 - 15 mins",
+            "slogan":"Baking joy, one treat at a time."
+        },
+        {
+            "image":"https://media.istockphoto.com/id/1733912414/photo/delicious-crispy-mini-puffs-with-sausage-or-meat-with-salt-thyme-and-sesame.jpg?s=612x612&w=0&k=20&c=5L2aE09pesjOfaWJNoGbFbM2O2GFTS_5I2zM4VtzLfM=",
+            "name":"Tart Temptations",
+            "rate":"4.40",
+            "time":"10 - 20 mins",
+            "slogan":"Sweet life, sweet treats."
+        },
+        {
+            "image":"https://media.istockphoto.com/id/1357271341/photo/homemade-mini-sausage-puff-pastry-just-out-of-the-oven.jpg?s=612x612&w=0&k=20&c=DcbWJajkcoZimfufx8j1gOQ-B9yJ2MvscNsp4RTM5qc=",
+            "name":"The Tasty Tart",
+            "rate":"4.40",
+            "time":"10",
+            "slogan":"Baking joy, one treat at a time."
+
+        }
+        
+    ]
+}
