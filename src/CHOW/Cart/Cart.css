@@ -1,0 +1,36 @@
+div.cart{
+    width: 100vw;
+    background-color: #fff;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.3);
+    display: flex;
+    align-items: center;
+}
+div.inner2{
+    position: relative;
+    padding: 20px;
+    width: 30%;
+    /* left: 200; */
+    height: 100%;
+    text-align: center;
+    /* border-radius: 40px; */
+    background-color: #fff;
+}
+div.check{
+    display: flex;
+    /* background-color: chartreuse; */
+    justify-content: space-between;
+}
+div.rightt{
+    display: flex;
+    align-items: center;
+    /* background-color: aqua; */
+    width: 7em;
+    justify-content: space-between;
+}
+div.lefft h2 ,div.right h3{
+    font-size: 1.3em;
+}

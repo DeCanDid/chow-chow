@@ -1,0 +1,115 @@
+div.User{
+    width: 100%;
+    /* background-color: #fff; */
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.3);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+div.inner{
+    position: relative;
+    padding: 20px;
+    width: 35em;
+    /* height: 35em; */
+    text-align: center;
+    border-radius: 40px;
+    background-color: #fff;
+    /* display: flex;
+    flex-direction: column;
+    gap: 2em; */
+}
+a.X2{
+    width: 2em;
+    height: 2em;
+    padding: 5px 15px;
+    text-align: right;
+    border-radius: 50%;
+    border: 0.5px solid #00000071;
+    font-size: 1.5em;
+}
+div.up{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.3em;
+}
+div.link{
+    text-align: right;
+    /* background-color: aquamarine; */
+    width: 100%;
+}
+a.In{
+    padding: 10px 6em;
+    font-size: 1.2em;
+    background-color: aqua;
+    border-radius: 10px;
+    /* display: block; */
+}
+div.phone{
+    text-align: left;
+    padding: 10px;
+    /* display: block; */
+}
+.gray{
+    background-color: #eaeaea;
+    color: #676767;
+}
+div.Innit{
+    padding: 10px;
+}
+/* div.SignUp{
+    display: flex;
+} */
+
+div.SignUp div{
+    text-align: left;
+    padding: 10px;
+}
+div.SignUp input{
+    padding: 10px;
+    width: 9.5em;
+    border-radius: 10px;
+    border: 0.3px solid #676767;
+}
+div.infowrapper{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    /* background-color: #676767; */
+    width: 80%;
+    margin: 0 auto;
+}
+div.emal,div.phonn{
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
+div.emal input,div.phonn input{
+    width: 22em;
+}
+div.nxt{
+    background-color: aqua;
+    text-align: center;
+}
+div.infowrapper a{
+    grid-column: 1/3;
+    text-align: center;
+    width: 90%;
+    position: relative;
+    margin: 0 0em 0 0.3em;
+   /*  padding: 5px 20px; */
+    background-color: #676767;
+    border-radius: 7px;
+    color: #fff;
+}
+div.SIGG{
+    height: 25em;
+
+}
+a.In{
+    background-color: #676767;
+}
