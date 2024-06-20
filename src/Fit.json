@@ -1,0 +1,86 @@
+{
+    "FitFarm":[
+        {
+            "image":"https://media.istockphoto.com/id/1400980767/photo/ham-sandwich-with-cheese-lettuce-and-tomato.jpg?s=612x612&w=0&k=20&c=l97UQZGV9zZuz965Q3sznePlN298BT2lm5GUnRHq4xs=",
+            "name":"So Fresh-LEKKI",
+            "time":" 8pm - 4am",
+            "text1":"SO-FRESH ",
+            "text2":"PARFAIT",
+            "text3":"FRUITS",
+            "img":"https://cdn-icons-png.flaticon.com/128/14026/14026175.png"
+        },
+        {
+            "image":"https://media.istockphoto.com/id/1560408457/photo/healthy-fruit-salad-in-a-grey-bowl-made-with-avocado-strawberry-raspberry-orange-blackberry.jpg?s=612x612&w=0&k=20&c=uaQYIIqORDenAtjrIS9_Ekx50-vhpTL7AXgrcevtXQs=",
+            "name":"So Fresh-Agungi",
+            "time":" 8pm - 4am",
+            "text1":"SO-FRESH ",
+            "text2":"PARFAIT",
+            "text3":"FRUITS",
+            "img":"https://cdn-icons-png.flaticon.com/128/14026/14026175.png"
+        },
+        {
+            "image":"https://media.istockphoto.com/id/1356546557/photo/healthy-breakfast-of-strawberry-parfait-made-with-fresh-fruit-and-yogurt-over-a-rustic-white.jpg?s=612x612&w=0&k=20&c=bU3ByY7r6gG_cKSUZpXYja8nxByRHGUOa1Py2LHcZuU=",
+            "name":"So Fresh-Ikoyi",
+            "time":" 8pm - 4am",
+            "text1":"SO-FRESH ",
+            "text2":"PARFAIT",
+            "text3":"FRUITS",
+            "img":"https://cdn-icons-png.flaticon.com/128/14026/14026175.png"
+        },
+        {
+            "image":"https://media.istockphoto.com/id/639376412/photo/blueberry-raspberry-parfaits-in-mason-jars-still-life-against-wood.jpg?s=612x612&w=0&k=20&c=3eBFSWTyRnAsa0MPlsLbjaZAQQZJIao8zmc_9oKy-po=",
+            "name":"So Fresh-Yaba",
+            "time":" 8pm - 4am",
+            "text1":"SO-FRESH ",
+            "text2":"PARFAIT",
+            "text3":"FRUITS",
+            "img":"https://cdn-icons-png.flaticon.com/128/14026/14026175.png"
+        },
+        {
+            "image":"https://media.istockphoto.com/id/1560408457/photo/healthy-fruit-salad-in-a-grey-bowl-made-with-avocado-strawberry-raspberry-orange-blackberry.jpg?s=612x612&w=0&k=20&c=uaQYIIqORDenAtjrIS9_Ekx50-vhpTL7AXgrcevtXQs=",
+            "name":"So Fresh-Ibadan",
+            "time":" 8pm - 4am",
+            "text1":"SO-FRESH ",
+            "text2":"PARFAIT",
+            "text3":"FRUITS",
+            "img":"https://cdn-icons-png.flaticon.com/128/14026/14026175.png"
+        },
+        {
+            "image":"https://media.istockphoto.com/id/2153971017/photo/skewers-of-fruit-on-a-serving-platter.jpg?s=612x612&w=0&k=20&c=nx6v3u62knFw07O2lduiFq6DIoyJAYsqoXidNq2ii74=",
+            "name":"Nutrelle Treat",
+            "time":" 8pm - 4am",
+            "text1":"SO-FRESH ",
+            "text2":"PARFAIT",
+            "text3":"FRUITS",
+            "img":"https://cdn-icons-png.flaticon.com/128/14026/14026175.png"
+        },
+        {
+            "image":"https://media.istockphoto.com/id/1560408457/photo/healthy-fruit-salad-in-a-grey-bowl-made-with-avocado-strawberry-raspberry-orange-blackberry.jpg?s=612x612&w=0&k=20&c=uaQYIIqORDenAtjrIS9_Ekx50-vhpTL7AXgrcevtXQs=",
+            "name":"Juice18ville",
+            "time":" 8pm - 4am",
+            "text1":"SO-FRESH ",
+            "text2":"PARFAIT",
+            "text3":"FRUITS",
+            "img":"https://cdn-icons-png.flaticon.com/128/14026/14026175.png"
+        },
+        {
+            "image":"https://media.istockphoto.com/id/1560408457/photo/healthy-fruit-salad-in-a-grey-bowl-made-with-avocado-strawberry-raspberry-orange-blackberry.jpg?s=612x612&w=0&k=20&c=uaQYIIqORDenAtjrIS9_Ekx50-vhpTL7AXgrcevtXQs=",
+            "name":"So Fresh-Ogudu",
+            "time":" 8pm - 4am",
+            "text1":"SO-FRESH ",
+            "text2":"PARFAIT",
+            "text3":"FRUITS",
+            "img":"https://cdn-icons-png.flaticon.com/128/14026/14026175.png"
+        },
+        {
+            "image":"https://media.istockphoto.com/id/1389740897/photo/healthy-bowl-of-parfait-%C3%A2-breakfast-concepts.jpg?s=612x612&w=0&k=20&c=-_ojT_s7_NzgZvsaAT6Lc0ehzSZgkk4YdIHiw0xQJyc=",
+            "name":"So Fresh-MMA2",
+            "time":" 8pm - 4am",
+            "text1":"SO-FRESH ",
+            "text2":"PARFAIT",
+            "text3":"FRUITS",
+            "img":"https://cdn-icons-png.flaticon.com/128/14026/14026175.png"
+        }
+
+    ]
+}

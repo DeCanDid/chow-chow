@@ -1,0 +1,49 @@
+{
+    "Local":[
+        {
+            "image":"https://media.istockphoto.com/id/1301675046/photo/variety-kinds-of-natural-cereal-and-grain-seed-in-sack-and-dark-tone-for-clean-food-raw.webp?b=1&s=170667a&w=0&k=20&c=OlQAhVFKLiK26iMVKrcc-GWz8fOtdr26KWTPumobR6w=",
+            "name":"Sawmill Market",
+            "time":" 8pm - 4am",
+            "text":"LOCAL MARKET MARKET",
+            "img":"https://cdn-icons-png.flaticon.com/128/14026/14026175.png"
+        },
+        {
+            "image":"https://media.istockphoto.com/id/1457433817/photo/group-of-healthy-food-for-flexitarian-diet.webp?b=1&s=170667a&w=0&k=20&c=RKgGJW8aIINIPpisynZ2x6UWFiMZ0afmEN32gmbYvVI=",
+            "name":"Itedo Market",
+            "time":" 8pm - 4am",
+            "text":"LOCAL MARKET MARKET",
+            "img":"https://cdn-icons-png.flaticon.com/128/14026/14026175.png"
+        },
+        {
+            "image":"https://media.istockphoto.com/id/1542614865/photo/man-shopping-vegetables-in-groceries-store.webp?b=1&s=170667a&w=0&k=20&c=bJAdmEJ33zxerVBCZ8inVTfpTyztGtrffUYvNzyRkns=",
+            "name":"Council Market",
+            "time":" 8pm - 4am",
+            "text":"LOCAL MARKET MARKET",
+            "img":"https://cdn-icons-png.flaticon.com/128/14026/14026175.png"
+        },
+        {
+            "image":"https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHZlZ2V0YWJsZXxlbnwwfHwwfHx8MA%3D%3D",
+            "name":"Bodija Market",
+            "time":" 8pm - 4am",
+            "text":"LOCAL MARKET MARKET",
+            "img":"https://cdn-icons-png.flaticon.com/128/14026/14026175.png"
+        },
+        {
+            "image":"https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8dmVnZXRhYmxlfGVufDB8fDB8fHww",
+            "Title":"Bowls of vegetable salad",
+            "name":"Sabo Market",
+            "time":" 8pm - 4am",
+            "text":"LOCAL MARKET MARKET",
+            "img":"https://cdn-icons-png.flaticon.com/128/14026/14026175.png"
+        },
+        {
+            "image":"https://media.istockphoto.com/id/1757432317/photo/group-of-red-vegetables-isolated-on-red-background.webp?b=1&s=170667a&w=0&k=20&c=H8Dh0p4DHMYAEGL_D0b7FngFCsYe_WvnTEvAH7hYnKI=",
+            "name":"Alapere Market",
+            "time":" 8pm - 4am",
+            "text":"LOCAL MARKET MARKET",
+            "img":"https://cdn-icons-png.flaticon.com/128/14026/14026175.png"
+        }
+
+    ]
+}
+

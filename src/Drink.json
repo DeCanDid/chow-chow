@@ -1,0 +1,111 @@
+{
+    "drink":[
+        {
+            "image":"https://images.pexels.com/photos/109275/pexels-photo-109275.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "name":"Urban Elixir",
+            "time":" 5pm - 5am",
+            "text1":"DRINKS ",
+            "text2":"PIZZA",
+            "text3":"MEALS",
+            "img":"https://cdn-icons-png.flaticon.com/128/14026/14026175.png"
+        },
+        {
+            "image":"https://images.pexels.com/photos/1233319/pexels-photo-1233319.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "name":"Velvet Vibe",
+            "time":" 9pm - 4am",
+            "text1":"DRINKS ",
+            "text2":"PIZZA",
+            "text3":"MEALS",
+            "img":"https://cdn-icons-png.flaticon.com/128/14026/14026175.png"
+        },
+        {
+            "image":"https://images.pexels.com/photos/128242/pexels-photo-128242.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "name":"Neon Nectar",
+            "time":" 8mins - 25mins",
+            "text1":"DRINKS ",
+            "text2":"PIZZA",
+            "text3":"MEALS",
+            "img":"https://cdn-icons-png.flaticon.com/128/14026/14026175.png"
+        },
+        {
+            "image":"https://t4.ftcdn.net/jpg/01/07/93/25/240_F_107932517_bRTDt5PCP4mOxlnsifzR6kXxkR3xi8QA.jpg",
+            "name":"Celestial Sip",
+            "time":" 8pm - 4am",
+            "text1":"DRINKS ",
+            "text2":"PIZZA",
+            "text3":"MEALS",
+            "img":"https://cdn-icons-png.flaticon.com/128/14026/14026175.png"
+        },
+        {
+            "image":"https://t4.ftcdn.net/jpg/03/10/01/97/240_F_310019753_1M07s7jaI3tQ3hubPWYLekZ6xx0PWVPN.jpg",
+            "name":"Aqua Aura",
+            "time":" 7pm - 1am",
+            "text1":"DRINKS ",
+            "text2":"PIZZA",
+            "text3":"MEALS",
+            "img":"https://cdn-icons-png.flaticon.com/128/14026/14026175.png"
+        },
+        {
+            "image":"https://t3.ftcdn.net/jpg/01/89/10/32/240_F_189103298_J9nh4VTCWamGQxMwt3cmIiWcNNkZb1Mk.jpg",
+            "name":"Beachside Brew",
+            "time":" 12pm - 3am",
+            "text1":"DRINKS ",
+            "text2":"PIZZA",
+            "text3":"MEALS",
+            "img":"https://cdn-icons-png.flaticon.com/128/14026/14026175.png"
+        },
+        {
+            "image":"https://t4.ftcdn.net/jpg/03/39/75/89/240_F_339758916_w672dQIkpVG1spsuiG6iNNdLAtPPfdjR.jpg",
+            "name":"Glisten Grove",
+            "time":" 9pm - 4am",
+            "text1":"DRINKS ",
+            "text2":"PIZZA",
+            "text3":"MEALS",
+            "img":"https://cdn-icons-png.flaticon.com/128/14026/14026175.png"
+        },
+        {
+            "image":"https://t4.ftcdn.net/jpg/01/92/94/05/240_F_192940579_witqYKrwpbz8OHDYYGn6PkxwDnpWkRnX.jpg",
+            "name":"Crystal Quench",
+            "time":" 5pm - 5am",
+            "text1":"DRINKS ",
+            "text2":"PIZZA",
+            "text3":"MEALS",
+            "img":"https://cdn-icons-png.flaticon.com/128/14026/14026175.png"
+        },
+        {
+            "image":"https://t4.ftcdn.net/jpg/01/93/23/01/240_F_193230194_brAhtVzdFlciltqhWRjQg8WyvqdxJjzk.jpg",
+            "name":"Svelte Sip",
+            "time":" 5mins - 15mins",
+            "text1":"DRINKS ",
+            "text2":"PIZZA",
+            "text3":"MEALS"
+        },
+        {
+            "image":"https://t3.ftcdn.net/jpg/06/27/79/34/240_F_627793462_UI9lLQsov6A56B1d5f0QSDEPjVqif3rv.jpg",
+            "name":"Platinum Pour",
+            "time":" 7pm - 1am",
+            "text1":"DRINKS ",
+            "text2":"PIZZA",
+            "text3":"MEALS",
+            "img":"https://cdn-icons-png.flaticon.com/128/14026/14026175.png"
+        },
+        {
+            "image":"https://t3.ftcdn.net/jpg/00/54/98/80/240_F_54988011_LiB4nD04AYDEJ8L6XL5vWZLlwDIAC9yO.jpg",
+            "name":"Ethereal Essence",
+            "time":" 12pm - 4am",
+            "text1":"DRINKS ",
+            "text2":"PIZZA",
+            "text3":"MEALS",
+            "img":"https://cdn-icons-png.flaticon.com/128/14026/14026175.png"
+        },
+        {
+            "image":"https://as2.ftcdn.net/v2/jpg/00/83/43/35/1000_F_83433594_0xo0M4r8WPJFqVktFUu7ubkn831t4kpu.jpg",
+            "name":"Coastal Cocktail",
+            "time":" 5pm - 5am",
+            "text1":"DRINKS ",
+            "text2":"PIZZA",
+            "text3":"MEALS",
+            "img":"https://cdn-icons-png.flaticon.com/128/14026/14026175.png"
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "Phramacy":[
+        {
+            "images":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8iVwLHqcRUFJ0427JGXD24_w0Ox96HnfTNS_LkNpWxtxhw0gb",
+            "Title":" Pharmacy",
+            "name":"Wella Pharmacy",
+            "time":" 8pm - 4am",
+            "text":"PHARMACY",
+            "img":"https://cdn-icons-png.flaticon.com/128/14026/14026175.png"
+        },
+        {
+            "images":"https://plus.unsplash.com/premium_photo-1682129961512-cec819b87215?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aW1hZ2UlMjBvZiUyMHBoYXJtYWN5fGVufDB8fDB8fHww",
+            "Title":" Pharmacy",
+            "name":"Wella Pharmacy",
+            "time":" 8pm - 4am",
+            "text":"PHARMACY",
+            "img":"https://cdn-icons-png.flaticon.com/128/14026/14026175.png"
+        },
+        {
+            "images":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8iVwLHqcRUFJ0427JGXD24_w0Ox96HnfTNS_LkNpWxtxhw0gb",
+            "Title":" farmasi",
+            "name":"Farmasi",
+            "time":" 8pm - 4am",
+            "text":"PHARMACY",
+            "img":"https://cdn-icons-png.flaticon.com/128/14026/14026175.png"
+        },
+        {
+            "images":"https://images.unsplash.com/photo-1631549916768-4119b2e5f926?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8cGhhcm1hY3l8ZW58MHx8MHx8fDA%3D",
+            "Title":" Drugs",
+            "name":"Wella Pharmacy",
+            "time":" 8pm - 4am",
+            "text":"PHARMACY",
+            "img":"https://cdn-icons-png.flaticon.com/128/14026/14026175.png"
+        },
+        {
+            "images":"https://media.istockphoto.com/id/1471839731/photo/a-young-woman-pharmacist-arranges-medicines-on-the-shelves-of-the-pharmacy.jpg?s=612x612&w=0&k=20&c=UPc3UdlCCcJ3mcruTJzlkjgDyKusnrY2G6QXeXSbuTk=",
+            "Title":" Pharmacy",
+            "name":"Wella Pharmacy",
+            "time":" 8pm - 4am",
+            "text":"Supermarket Explore",
+            "img":"https://cdn-icons-png.flaticon.com/128/14026/14026175.png"
+        },
+        {
+            "images":"https://images.unsplash.com/photo-1586015555751-63bb77f4322a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8cGhhcm1hY3l8ZW58MHx8MHx8fDA%3D",
+            "Title":" Pharmacy",
+            "name":"Wella Pharmacy",
+            "time":" 8pm - 4am",
+            "text":"Supermarket Explore",
+            "img":"https://cdn-icons-png.flaticon.com/128/14026/14026175.png"
+        },
+        {
+            "images":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbNi0ZVvYX4t2zZdic3ZaCv7Pmgx24NDvCWTBvbfifnhfdy1GU",
+            "Title":" Pharmacy",
+            "name":"Wella Pharmacy",
+            "time":"Opens 8pm - 4am",
+            "text":"PHARMACY",
+            "img":"https://cdn-icons-png.flaticon.com/128/14026/14026175.png"
+        },
+        {
+            "images":"https://images.unsplash.com/photo-1617881770125-6fb0d039ecde?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHBoYXJtYWN5fGVufDB8fDB8fHww",
+            "Title":" Pharmacy",
+            "name":"Wella Pharmacy",
+            "time":" 8pm - 4am",
+            "text":"PHARMACY",
+            "img":"https://cdn-icons-png.flaticon.com/128/14026/14026175.png"
+        },
+        {
+            "images":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbNi0ZVvYX4t2zZdic3ZaCv7Pmgx24NDvCWTBvbfifnhfdy1GU",
+            "Title":" Pharmacy",
+            "name":"One Health",
+            "time":" 8pm - 4am",
+            "text":"PHARMACY",
+            "img":"https://cdn-icons-png.flaticon.com/128/14026/14026175.png"
+        },
+        {
+            "images":"https://media.istockphoto.com/id/1036131880/photo/efficient-pharmacy-operations-thanks-to-teamwork.webp?b=1&s=170667a&w=0&k=20&c=phSLL6x0WgHYtwp4PrmkB41qmyX5TiTbk5EqyhHzo2U=",
+            "Title":" Pharmacy",
+            "name":"One Health",
+            "time":" 8pm - 4am",
+            "text":"PHARMACY",
+            "img":"https://cdn-icons-png.flaticon.com/128/14026/14026175.png"
+        },
+        {
+            "images":"https://media.istockphoto.com/id/1778307374/photo/pharmacist-taking-inventory-at-the-drugstore-using-a-bar-code-reader.webp?b=1&s=170667a&w=0&k=20&c=pFVsOP7X46dulPGaKWQDKRZR02htE5Rba6Y8XRumYI8=",
+            "Title":" Pharmacy",
+            "name":"One Health",
+            "time":" 8pm - 4am",
+            "text":"PHARMACY",
+            "img":"https://cdn-icons-png.flaticon.com/128/14026/14026175.png"
+        },
+        {
+            "images":"https://media.istockphoto.com/id/1778306832/photo/prescription-medicines-stored-in-shelves-at-the-pharmacy.jpg?s=612x612&w=0&k=20&c=Z_6XBqh3ACibqgRsBfZJ_HQOnuHoE0NVXJ5YK3MaLXE=",
+            "Title":" Pharmacy",
+            "name":"One Health",
+            "time":" 8pm - 4am",
+            "text":"Supermarket Explore",
+            "img":"https://cdn-icons-png.flaticon.com/128/14026/14026175.png"
+        }
+    ]
+}

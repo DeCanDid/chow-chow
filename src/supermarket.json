@@ -1,0 +1,60 @@
+{
+    "SuperMarket":[
+        {
+            "image":"https://images.unsplash.com/photo-1542838132-92c53300491e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8c3VwZXJtYXJrZXR8ZW58MHx8MHx8fDA%3D",
+            "name":"TMT Supermarket",
+            "time":" 8pm - 4am",
+            "text":"Supermarket Explore",
+            "img":"https://cdn-icons-png.flaticon.com/128/14026/14026175.png"
+        },
+        {
+            "image":"https://images.unsplash.com/photo-1525328437458-0c4d4db7cab4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fHN1cGVybWFya2V0fGVufDB8fDB8fHww",
+            "name":"Trolleys Superstore",
+            "time":" 8pm - 4am",
+            "text":"Supermarket Explore",
+            "img":"https://cdn-icons-png.flaticon.com/128/14026/14026175.png"
+        },
+        {
+            "image":"https://media.istockphoto.com/id/1425139113/photo/purchasing-goods-with-smartphone-at-grocery-store.webp?b=1&s=170667a&w=0&k=20&c=O-nUbf1EalaimW-Uir59AJI_X10tfbAbGqNdDGQlNms=",
+            "name":"Madina Supermarket",
+            "time":" 8pm - 4am",
+            "text":"Supermarket Explore",
+            "img":"https://cdn-icons-png.flaticon.com/128/14026/14026175.png"
+        },
+        {
+            "image":"https://media.istockphoto.com/id/1205748864/photo/aisles-and-shelves-in-supermarket-wide-angle-view.jpg?s=612x612&w=0&k=20&c=DfX0WghsUEn_nZ29dq1qu00_RwFYjkZZ0vfLESFCOu4=",
+            "name":"SuperSaver SuperMarket-Okota",
+            "time":" 8pm - 4am",
+            "text":"Supermarket Explore",
+            "img":"https://cdn-icons-png.flaticon.com/128/14026/14026175.png"
+        },
+        {
+            "image":"https://media.istockphoto.com/id/1425139113/photo/purchasing-goods-with-smartphone-at-grocery-store.webp?b=1&s=170667a&w=0&k=20&c=O-nUbf1EalaimW-Uir59AJI_X10tfbAbGqNdDGQlNms= ",
+            "name":"SuperSaver SuperMarket-Alapere",
+            "time":" 8pm - 4am",
+            "text":"Supermarket Explore",
+            "img":"https://cdn-icons-png.flaticon.com/128/14026/14026175.png"
+        },
+        {
+            "image":"https://media.istockphoto.com/id/1205748864/photo/aisles-and-shelves-in-supermarket-wide-angle-view.jpg?s=612x612&w=0&k=20&c=DfX0WghsUEn_nZ29dq1qu00_RwFYjkZZ0vfLESFCOu4=",
+            "name":"SuperSaver SuperMarket-Ikosi",
+            "time":" 8pm - 4am",
+            "text":"Supermarket Explore",
+            "img":"https://cdn-icons-png.flaticon.com/128/14026/14026175.png"
+        },
+        {
+            "image":"https://images.unsplash.com/photo-1515706886582-54c73c5eaf41?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHN1cGVybWFya2V0fGVufDB8fDB8fHww",
+            "name":"SuperSaver SuperMarket-Lekki",
+            "time":" 8pm - 4am",
+            "text":"Supermarket Explore",
+            "img":"https://cdn-icons-png.flaticon.com/128/14026/14026175.png"
+        },
+        {
+            "image":"https://images.unsplash.com/photo-1515706886582-54c73c5eaf41?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHN1cGVybWFya2V0fGVufDB8fDB8fHww",
+            "name":"SuperSaver SuperMarket-Ajao",
+            "time":" 8pm - 4am",
+            "text":"Supermarket Explore",
+            "img":"https://cdn-icons-png.flaticon.com/128/14026/14026175.png"
+        }
+    ]
+}
