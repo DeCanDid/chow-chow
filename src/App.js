@@ -13,7 +13,8 @@ function App() {
   return(
     <>
       <div>
-      {/* <Restaurant/> */}      
+      {/* <Restaurant/> */}   
+      <h1>Checking</h1>   
       <Routes>
       <Route path="/" element={<Landing/>}/>
     <Route path='/Restaurant' element={<Restaurant/>}/>
