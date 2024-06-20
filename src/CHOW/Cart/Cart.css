@@ -34,3 +34,11 @@ div.rightt{
 div.lefft h2 ,div.right h3{
     font-size: 1.3em;
 }
+@media((min-width:401px) and (max-width: 768px)){
+    div.inner2{
+        width: 50%;
+    }
+    div.cart h1{
+        font-size: 1.2em;
+    }
+}

@@ -55,3 +55,16 @@ div.X{
 div.X h2{
     font-size: 1.2em;
 }
+@media((max-width: 768px)){
+    div.inner{
+        /* margin: 0 4em; */
+        width: 80%;
+        height: 70%;
+        padding: 10px;
+    }
+input#added{
+    width: 80%;
+}
+}
+/* @media((min-width:200px) and (max-width: 400px)){
+} */

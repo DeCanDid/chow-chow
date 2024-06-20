@@ -18,7 +18,7 @@ function User(props) {
   // console.log(linkRef.current);
   return (props.trigger3)?(
     <div className='User'>
-      <motion.div animate={{scale:1}} initial={{scale:0.4}} className="inner">
+      <motion.div animate={{scale:1}} initial={{scale:0.4}} className="inner3">
                <div className="up">
           <div className="link">
         <Link onClick={()=>props.setTrigger3(false)} className='X2'>X</Link>
