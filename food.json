@@ -1,0 +1,91 @@
+{
+    "food":[
+        
+        {
+            "images":"https://media.istockphoto.com/id/619637254/photo/two-fresh-submarine-sandwiches.jpg?s=612x612&w=0&k=20&c=5WtuqMq6eYFognGqc7wkGUspHxcKNWr-rV2rkAegM7g=",
+            "name":"Snap,Snacks & Sips",
+            "rate":"4.40",
+            "time":"10 - 15 mins",
+            "slogan":"Rapid Relish, Every Dish."
+        },
+        {
+            "images":"https://media.istockphoto.com/id/1128282420/photo/pancakes-with-honey-nuts-and-raisins-with-a-cup-of-coffee.jpg?s=612x612&w=0&k=20&c=3T6H4u-rQwc3lwiC_1LKVeKqXF2y6l3i_dUQdKgKHUw=",
+            "name":"Turbo Tasties",
+            "rate":"4.40",
+            "time":" 5 - 10 mins",
+            "slogan":"Swift Flavors, Satisfying Cravings."
+        },
+        {
+            "images":"https://media.istockphoto.com/id/1313361282/photo/mexican-rice-and-chorizo-sausage-wrap.jpg?s=612x612&w=0&k=20&c=7BgOT-kuluQIlZ50l-p-DNvajA66EeB_HIUvW6O_GPM=",
+            "name":"Hot 'n Ready",
+            "rate":"4.40",
+            "time":"20 - 30 mins",
+            "slogan":"Dash in for Delicious."
+        },
+        {
+            "images":"https://media.istockphoto.com/id/1146055956/photo/warming-spicy-hot-chocolate-with-orange-and-chili.jpg?s=612x612&w=0&k=20&c=38SsWvZac5aviyYKNgZfW7oglZkMETyOKO4OoFGpv8g=",
+            "name":"Feul-N-Feast",
+            "rate":"4.40",
+            "time":"10 - 15 mins",
+            "slogan":"Bite into the Fast Lane."
+        },
+        {
+            "images":"https://media.istockphoto.com/id/1147607598/photo/muffins-close-up-horizontal.jpg?s=612x612&w=0&k=20&c=jpF0Kr5Oxwm3mY_Uvu_jjqYRp9hy2RiK6h9Nu2AavnA=",
+            "name":"Munch & Go",
+            "rate":"4.40",
+            "time":"15 - 20 mins",
+            "slogan":"Savor the Speed."
+        }
+        ,
+        {
+            "images":"https://media.istockphoto.com/id/542331706/photo/homemade-spicy-shrimp-tacos.jpg?s=612x612&w=0&k=20&c=fxx5deD9YgseQfLc3IFZpoMfwdq8Fb7jYimAjITs6TA=",
+            "name":"Twisted Tastes",
+            "rate":"4.40",
+            "time":"10 - 15 mins",
+            "slogan":"Zoom into Flavor Town."
+        },
+        {
+            "images":"https://media.istockphoto.com/id/1475632295/photo/hot-dog-with-roasted-onions-pickle-relish-mustard-and-ketchup.jpg?s=612x612&w=0&k=20&c=2QeSwB4BcA_TWCT8xuoPaCoNfcsAer83QalN2lF4y34=",
+            "name":"The Takeout King",
+            "rate":"4.40",
+            "time":" 5 - 15 mins",
+            "slogan":"Quick, Crispy, and Irresistible."
+        },
+        
+        {
+            "images":"https://media.istockphoto.com/id/966418544/photo/plate-of-fried-cuttlefish-typical-of-the-city-of-setubal-in-portugal.jpg?s=612x612&w=0&k=20&c=d4ACa1Zl6RK3qa_1lyXkODBQrwAtcab6Itbuj4xc9Ew=",
+            "name":"The Bite Stop",
+            "rate":"4.40",
+            "time":" 5 - 10 mins",
+            "slogan":"Eat Smart, Eat Quick"
+        },
+        {
+            "images":"https://media.istockphoto.com/id/935963718/photo/chicken-nuggets-and-french-fries.jpg?s=612x612&w=0&k=20&c=QHiEEUk0fZFHuBc0Gy9B39p7zr9RL1HL562Y1dtFxfQ=",
+            "name":"Crazy Combos",
+            "rate":"4.40",
+            "time":"20 - 30 mins",
+            "slogan":"Speedy Servings, Smiling Faces."
+        },
+        {
+            "images":"https://media.istockphoto.com/id/564586610/photo/fried-onion-chicken-fish-and-chips.jpg?s=612x612&w=0&k=20&c=bQ9Shic2-QxTYX23BEfWAi0mPJsA2viCL47oUlG_q84=",
+            "name":"Sizzle Stop",
+            "rate":"4.40",
+            "time":" 5 - 10 mins",
+            "slogan":"Sizzle, Fizz, Fast Food Bliss."
+        },
+        {
+            "images":"https://media.istockphoto.com/id/540602738/photo/healthy-homemade-baked-sweet-potato-fries.jpg?s=612x612&w=0&k=20&c=YpjtXkOMS_Ful0MPnlqiTaUqlDiVEom5cDtfUiX-TYk=",
+            "name":"Fly-N-Fries",
+            "rate":"4.40",
+            "time":"10 - 15 mins",
+            "slogan":"Rapidly Delicious, Delightfully Fast."
+        },
+        {
+            "images":"https://media.istockphoto.com/id/1166678093/photo/spaghetti-with-tomato-sauce-shot-on-rustic-wooden-table.jpg?s=612x612&w=0&k=20&c=xbSNkFix3M9jN7d72cJX_rKcT-QrOfCCUbH9CikXVbo=",
+            "name":"Noodle Delight.",
+            "rate":"4.40",
+            "time":" 10 - 20 mins",
+            "slogan":"Sick Flavor, Quick Meals"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "all":[
+        {
+            "img":"https://media.istockphoto.com/id/1439605353/photo/food-photos-various-entrees-appetizers-deserts-etc.jpg?s=612x612&w=0&k=20&c=ta14YocTxxQW757vjIlpCn8k88xjtG064h1kj4I3gos=",
+            "name":"Sizzle Crips",
+            "rate":"4.40",
+            "time":" 10 - 15 mins",
+            "text":"Chicken  Fast Food" 
+        },
+        {
+            "img":"https://media.istockphoto.com/id/1310920307/photo/tasty-margherita-pizza-with-ham-white-mushrooms-mozzarella-and-vegetables-on-wooden-background.jpg?s=612x612&w=0&k=20&c=C28o-nNpBRINcvIigIrF7XPXGIWoLjr4rMidHrdHSmA=",
+            "name":"Slice Heaven",
+            "rate":"4.40",
+            "time":"10 - 15 mins",
+            "text":"Pizza Pleasures Await!"
+        },
+        {
+            "img":"https://media.istockphoto.com/id/495520042/photo/delicious-hamburger-on-wood.jpg?s=612x612&w=0&k=20&c=JMJMFPAqSo5lDLBPpH60rRHqpYDNLnG2I0_bLnO2UME=",
+            "name":"Burger Delight",
+            "rate":"4.40",
+            "time":"20 - 30 mins",
+            "text":"The Land of Juicy Delights"
+        },
+        {
+            "img":"https://media.istockphoto.com/id/2125328538/photo/fried-fresh-samosa-is-a-delicious-street-food.jpg?s=612x612&w=0&k=20&c=1bUhSEzD-G_r7P1klVasIta6WYtJfsMHaNOQUHjFbPQ=",
+            "name":"Golden Flake Bakery",
+            "rate":"4.40",
+            "time":"5 - 15 mins",
+            "text":"Baking joy, one treat at a time."
+        },
+        {
+            "img":"https://media.istockphoto.com/id/542331706/photo/homemade-spicy-shrimp-tacos.jpg?s=612x612&w=0&k=20&c=fxx5deD9YgseQfLc3IFZpoMfwdq8Fb7jYimAjITs6TA=",
+            "name":"Twisted Tastes",
+            "rate":"4.40",
+            "time":"10 - 15 mins",
+            "text":"Zoom into Flavor Town."  
+        },
+        {
+            "img":"https://media.istockphoto.com/id/1356546557/photo/healthy-breakfast-of-strawberry-parfait-made-with-fresh-fruit-and-yogurt-over-a-rustic-white.jpg?s=612x612&w=0&k=20&c=bU3ByY7r6gG_cKSUZpXYja8nxByRHGUOa1Py2LHcZuU=",
+            "name":"Parfait Sensation",
+            "rate":"4.40",
+            "time":"10 - 25 mins",
+            "text":"Smooth and Creamy Every side"
+        },
+        {
+            "img":"https://t3.ftcdn.net/jpg/06/27/79/34/240_F_627793462_UI9lLQsov6A56B1d5f0QSDEPjVqif3rv.jpg",
+            "name":"Platinum Pour",
+            "rate":"4.40",
+            "time":"Opens 7pm - 1am",
+            "text":"Savor the Unconventional"
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "pizza":[
+        {
+            "image":"https://media.istockphoto.com/id/1300928100/photo/bbq-pizza-with-onions-and-seasons-vegetables.jpg?s=612x612&w=0&k=20&c=8E6rc275RJRGh92dbBFr6YpPopztUralSb6iamyuWD4=",
+            "name":"Pizza Kings",
+            "rate":"4.40",
+            "time":"10 - 15 mins",
+            "text":"Pizza Perfection Delivered"
+        },
+        {
+            "image":"https://media.istockphoto.com/id/1286210776/photo/pizza-margherita-on-wood-background-pizza-margarita-with-tomatoes-basil-and-mozzarella-cheese.jpg?s=612x612&w=0&k=20&c=l0VheeHrL9T5alvOwbRKqd_oceY7PoNm_X65tfh9bCg=",
+            "name":"City Pizza",
+            "rate":"4.40",
+            "time":"10 - 15 mins",
+            "text":"Hot Pizza, Cool Vibes!"
+        },
+     
+        {
+            "image":"https://media.istockphoto.com/id/1633182609/photo/irresistible-pizza-collection-for-every-craving.jpg?s=612x612&w=0&k=20&c=bQsF6wodEHhZyIN7CV9WTSVM07NXGHtVzksNO3MxLpY=",
+            "name":"Crispy Crust Delights",
+            "rate":"4.40",
+            "time":"21 -31 mins",
+            "text":"Saucy, Cheesy, Oh So Easy!"
+        },
+        {
+            "image":"https://media.istockphoto.com/id/1485108309/photo/freshly-baked-caprese-pizza-with-cheese-tomatoes-and-basil-close-up-on-a-wooden-board.jpg?s=612x612&w=0&k=20&c=-vGTg8dNwmdHsh-9KhmJl7p1fjp0NoApkvYKTpQRBjs=",
+            "name":"Slice & Spice Pizzeria",
+            "rate":"4.40",
+            "time":"5 - 15 mins",
+            "text":"Where Flavor Meets Fun"
+        },
+        {
+            "image":"https://media.istockphoto.com/id/1485119361/photo/vegetable-pizza-and-cheese-on-the-rusty-background.jpg?s=612x612&w=0&k=20&c=xvfY_T63B7sWc2Sc7r1BqdcTOdfe5bw4Htr7OaoZhWU=",
+            "name":"Mamma Mia’s Pizza Villa",
+            "rate":"4.40",
+            "time":"20 - 30 mins",
+            "text":" Pizza Fast Food."
+        },
+        
+        {
+            "image":"https://media.istockphoto.com/id/1349560847/photo/sausage-and-vegetable-pizza-on-dark-background.jpg?s=612x612&w=0&k=20&c=VjDdBc_WrHh9dqI8jCSEoI1jeWQDVSdXOJJ5LijQoRA=",
+            "name":"Urban Pizza",
+            "rate":"4.40",
+            "time":"30 - 40 mins",
+            "text":"More Pizza, More Smiles!"
+        },
+        {
+            "image":"https://media.istockphoto.com/id/1363764103/photo/traditional-supreme-pizza.jpg?s=612x612&w=0&k=20&c=htPyoQUarfnsLK8JVxp4EjLxy6DSAySrTP7XsJCj9tw=",
+            "name":"Pizza Bliss",
+            "rate":"4.40",
+            "time":"10 - 15 mins",
+            "text":"always great, never greasy"
+        },
+        {
+            "image":"https://media.istockphoto.com/id/1300490712/photo/oven-baked-italian-pizza-with-sauce-cheese-mushrooms-bell-peppers-and-olives-in-a-composition.jpg?s=612x612&w=0&k=20&c=JgrpQCVMgU75UD9_7vREl3w62xoXf8uPpLKAoO8iOZw=",
+            "name":"Pizza haven",
+            "rate":"4.40",
+            "time":"20 - 30 mins",
+            "text":"Life is short.Eat better pizza"
+        },
+        {
+            "image":"https://media.istockphoto.com/id/1310920307/photo/tasty-margherita-pizza-with-ham-white-mushrooms-mozzarella-and-vegetables-on-wooden-background.jpg?s=612x612&w=0&k=20&c=C28o-nNpBRINcvIigIrF7XPXGIWoLjr4rMidHrdHSmA=",
+            "name":"The pizza spot",
+            "rate":"4.40",
+            "time":"30 - 40 mins",
+            "text":"Eat Pizza, Not Your Diet!,"
+        },
+        {
+            "image":"https://media.istockphoto.com/id/1413051048/photo/baked-onion-pizza-on-the-decorated-background.jpg?s=612x612&w=0&k=20&c=AfXKK2DTllUT0w4UWXo6wxGCPorEAvNXe5TcPOqdyAE=",
+            "name":"Cheesy Bites",
+            "rate":"4.40",
+            "time":"15 - 25 mins",
+            "text":"More Pizza, More Smiles!"
+        },
+        {
+            "image":"https://media.istockphoto.com/id/1310920307/photo/tasty-margherita-pizza-with-ham-white-mushrooms-mozzarella-and-vegetables-on-wooden-background.jpg?s=612x612&w=0&k=20&c=C28o-nNpBRINcvIigIrF7XPXGIWoLjr4rMidHrdHSmA=",
+            "name":"Slice Heaven",
+            "rate":"4.40",
+            "time":"10 - 15 mins",
+            "text":"Pizza Pleasures Await!"
+        },
+         {
+            "image":"https://media.istockphoto.com/id/842066064/photo/homemade-veggie-pizza-with-mushrooms-peppers.jpg?s=612x612&w=0&k=20&c=59rjUQ3FI-XuctUO7ewnwjB0Azsr8CTvRznzqf_0-fU=",
+            "name":"Cripsy Crust",
+            "rate":"4.40",
+            "time":"25 - 30 mins",
+            "text":"Hot Pizzas, Cool Vibes"
+        }
+    ]
+}

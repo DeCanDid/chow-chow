@@ -1,0 +1,88 @@
+{
+    "drinks":[
+        {
+            "image":"https://images.pexels.com/photos/109275/pexels-photo-109275.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "name":"Urban Elixir",
+            "rate":"4.40",
+            "time":"Opens 5pm - 5am",
+            "text":"Sip the Unseen"
+        },
+        {
+            "image":"https://images.pexels.com/photos/1233319/pexels-photo-1233319.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "name":"Velvet Vibe",
+            "rate":"4.40",
+            "time":"Opens 9pm - 4am",
+            "text":"Drink the Possibilities"
+        },
+        {
+            "image":"https://images.pexels.com/photos/128242/pexels-photo-128242.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "name":"Neon Nectar",
+            "rate":"4.40",
+            "time":"Always Open",
+            "text":"Flavorful Secrets Unveiled"
+        },
+        {
+            "image":"https://t4.ftcdn.net/jpg/01/07/93/25/240_F_107932517_bRTDt5PCP4mOxlnsifzR6kXxkR3xi8QA.jpg",
+            "name":"Celestial Sip",
+            "rate":"4.40",
+            "time":"Opens 8pm - 4am",
+            "text":"Indulgence Redefined"
+        },
+        {
+            "image":"https://t4.ftcdn.net/jpg/03/10/01/97/240_F_310019753_1M07s7jaI3tQ3hubPWYLekZ6xx0PWVPN.jpg",
+            "name":"Aqua Aura",
+            "rate":"4.40",
+            "time":"Opens 7pm - 1am",
+            "text":"Raise Your Glass, Embrace the Exceptional"
+        },
+        {
+            "image":"https://t3.ftcdn.net/jpg/01/89/10/32/240_F_189103298_J9nh4VTCWamGQxMwt3cmIiWcNNkZb1Mk.jpg",
+            "name":"Beachside Brew",
+            "rate":"4.40",
+            "time":"Opens 12pm - 3am",
+            "text":"A Sip of Ecstasy"
+        },
+        {
+            "image":"https://t4.ftcdn.net/jpg/03/39/75/89/240_F_339758916_w672dQIkpVG1spsuiG6iNNdLAtPPfdjR.jpg",
+            "name":"Glisten Grove",
+            "rate":"4.40",
+            "time":"Opens 9pm - 4am",
+            "text":"Unlock Your Taste Adventure"
+        },
+        {
+            "image":"https://t4.ftcdn.net/jpg/01/92/94/05/240_F_192940579_witqYKrwpbz8OHDYYGn6PkxwDnpWkRnX.jpg",
+            "name":"Crystal Quench",
+            "rate":"4.40",
+            "time":"Opens 5pm - 5am",
+            "text":"Beyond Ordinary, Into Extraordinary"
+        },
+        {
+            "image":"https://t4.ftcdn.net/jpg/01/93/23/01/240_F_193230194_brAhtVzdFlciltqhWRjQg8WyvqdxJjzk.jpg",
+            "name":"Svelte Sip",
+            "rate":"4.40",
+            "time":"Always Open",
+            "text":"Dare to Drink Different"
+        },
+        {
+            "image":"https://t3.ftcdn.net/jpg/06/27/79/34/240_F_627793462_UI9lLQsov6A56B1d5f0QSDEPjVqif3rv.jpg",
+            "name":"Platinum Pour",
+            "rate":"4.40",
+            "time":"Opens 7pm - 1am",
+            "text":"Savor the Unconventional"
+        },
+        {
+            "image":"https://t3.ftcdn.net/jpg/00/54/98/80/240_F_54988011_LiB4nD04AYDEJ8L6XL5vWZLlwDIAC9yO.jpg",
+            "name":"Ethereal Essence",
+            "rate":"4.40",
+            "time":"Opens 12pm - 4am",
+            "text":"Discover a Liquid Symphony"
+        },
+        {
+            "image":"https://as2.ftcdn.net/v2/jpg/00/83/43/35/1000_F_83433594_0xo0M4r8WPJFqVktFUu7ubkn831t4kpu.jpg",
+            "name":"Coastal Cocktail",
+            "rate":"4.40",
+            "time":"Opens 5pm - 5am",
+            "text":"Elevate Your Palate, Elevate Your Life"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "african":[
+        {
+            "images":"https://t4.ftcdn.net/jpg/05/01/60/05/240_F_501600569_OL1tuP82lTwVmaAhG1ZuZX3o4FneJj7y.jpg",
+            "name":"AfroDelicious.",
+            "rate":"4.14",
+            "time":"10 - 15 mins",
+            "text1":"African"
+        },
+        {
+            "images":"https://t4.ftcdn.net/jpg/03/61/68/87/240_F_361688759_icKnBle5FCCjoeKYAY4okmCMHcimoStM.jpg",
+            "name":"Safari Spice.",
+            "rate":"4.20",
+            "time":"5 -  10 mins",
+            "text1":"African"
+        },
+        {
+            "images":"https://t3.ftcdn.net/jpg/06/53/78/02/240_F_653780266_w0UqVPaX14VyN7BIUWjeaiCrCfWKAmaZ.jpg",
+            "name":"Taste of Africa.",
+            "rate":"4.5",
+            "time":"23 - 33 mins",
+            "text1":"African"
+        },
+        {
+            "images":"https://media.istockphoto.com/id/1448028211/photo/food-photos-various-entrees-appetizers-deserts-etc.jpg?s=612x612&w=0&k=20&c=yYRUaCTK-74KOAwZ-SwzlAYD8OIJXyjgbr4H8Veek7U=",
+            "name":"Exotic Grill.",
+            "rate":"4.17",
+            "time":"10 - 15 mins",
+            "text1":"African"
+        },
+        {
+            "images":"https://media.istockphoto.com/id/1373169941/photo/afang-soup.jpg?s=612x612&w=0&k=20&c=OxEiHp0fd-LOa1FBatSvepOr7skLrxCN-pMspou6d7c=",
+            "name":"AfroBites.",
+            "rate":"4.02",
+            "time":"10 - 20 mins",
+            "text1":"African"
+        },
+        {
+            "images":"https://media.istockphoto.com/id/528733378/photo/corn-on-the-cob-in-kyoto-japan.jpg?s=612x612&w=0&k=20&c=gQgJA_klIpDgyMFot4IVcUp3micvwZAPFeoReSfA-hE=",
+            "name":"Savannah Flavors.",
+            "rate":"4.19",
+            "time":"20 - 25 mins",
+            "text1":"African"
+        },
+        {
+            "images":"https://t3.ftcdn.net/jpg/06/11/52/44/240_F_611524486_JoAdUyHa12AShCyQgK9GIViXXu0CpM72.jpg",
+            "name":"Wilderness Kitchen.",
+            "rate":"4.44",
+            "time":"10 - 15 mins",
+            "text1":"African"
+        },
+        {
+            "images":"https://t3.ftcdn.net/jpg/04/79/70/04/360_F_479700407_WHyAvNdeG9yGIjlzHgVclkpGOZ41aevo.webp",
+            "name":"African Feast.",
+            "rate":"4.48",
+            "time":"5 -  10 mins",
+            "text1":"African"
+        },
+        {
+            "images":"https://media.istockphoto.com/id/1171797738/photo/four-bananas-on-the-grill-grilled-bananas.jpg?s=612x612&w=0&k=20&c=cMD7RSxTDxmg0Nry389AjO1mDTeaMT5LdOfbZ6hJySQ=",
+            "name":"Zulu Kitchen",
+            "rate":"4.36",
+            "time":"21 - 31 mins",
+            "text1":"African"
+        }
+    ]
+}
